@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "Deep Learning"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/dl/
 author_profile: true
-taxonomy: Categories1
+taxonomy: dl
 sidebar:
   nav: "categories"
 ---

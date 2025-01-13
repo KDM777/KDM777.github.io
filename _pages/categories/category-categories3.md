@@ -1,9 +1,9 @@
 ---
-title: "Categories3"
+title: "GNN"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/gnn/
 author_profile: true
-taxonomy: Categories3
+taxonomy: gnn
 sidebar:
   nav: "categories"
 ---

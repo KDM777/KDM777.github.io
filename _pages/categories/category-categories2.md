@@ -1,9 +1,9 @@
 ---
-title: "Categories2"
+title: "Computer Vision"
 layout: category
-permalink: /categories/categories2/
+permalink: /categories/cv/
 author_profile: true
-taxonomy: Categories2
+taxonomy: cv
 sidebar:
   nav: "categories"
 ---
