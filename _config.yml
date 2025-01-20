@@ -15,7 +15,7 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
-minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "aqua" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "ko-KR" #"en-US"
@@ -30,7 +30,7 @@ repository: "KDM777/KDM777.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
-masthead_title: # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: " "# overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name: "김댐" # 블로그 닉네임
-  avatar: "/assets/images/meee.png" # 블로그 프로필 사진
+  avatar: "/assets/images/kdm.png" # 블로그 프로필 사진
   #   bio              : "hi all!"
   # location         : "Seoul, Korea"
   # email            : "youremailhere@xxxxxx.com"
